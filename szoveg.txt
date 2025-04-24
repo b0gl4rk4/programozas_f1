@@ -1,0 +1,64 @@
+ 
+A(z) Gmail asztali értesítéseinek bekapcsolása.
+   OK  Köszönöm, nem.
+oke na most
+Beérkező levelek
+
+boglarka
+18:02 (4 perccel ezelőtt)
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Formula1</title> </
+
+boglarka <cstebgi@gmail.com>
+18:04 (1 perccel ezelőtt)
+címzett: én
+
+(1 OLDAL)
+
+Forma1 (h1)
+
+A Formula–1 (rövidítve: F1, magyarul korábban rendszerint Forma–1, angolul: Formula One) a legrangosabb nemzetközi autóverseny-sorozat, melynek szabályait a Nemzetközi Automobil Szövetség (FIA) határozza meg. A Formula–1-es világbajnokságban nyitott karosszériájú, együléses versenyautók vehetnek részt. A versenyeket szilárd burkolatú, erre a célra kialakított zárt, vagy városi pályákon rendezik. Az eredmények alapján évente két világbajnokot avatnak, egy egyénit és egy konstruktőrit (csapat-világbajnokság). A versenyeket több százmillióan nézik televízión, a világ több mint kétszáz országában.
+
+Az első Formula–1-es világbajnokságot 1950-ben rendezték. A Formula–1 történelmi központja Európa, ahonnan a dohányreklámok tilalma, valamint a feltörekvő ázsiai országok gazdasági nyomása miatt kezd kiszorulni. Ma már a világ számos pontján tartanak Formula–1-es nagydíjat, többek között Azerbajdzsánban, az Egyesült Államokban, Kínában, Bahreinben és Szingapúrban is. 2024-ben rekordszámú, huszonnégy versenyt rendeznek. A Formula–1 magyar nagydíjat folyamatosan megrendezik 1986 óta.
+
+Versenypályák(h2)
+
+A Formula–1-es versenyeket zárt, szilárd burkolatú, külön erre a célra épített pályákon tartják. Egyes helyszíneket részben vagy egészben országúton, városi utcákon, parkokban, ritkán repülőterek kifutópályáján jelölik ki.
+
+Egy tipikus versenypálya általános jellemzője a rajt-célegyenes, amelyen felsorakoznak a versenyzők a starthoz, és ahol a kockás zászlóval leintik a versenyt. A célegyenes nem feltétlenül egyenes, előfordul, hogy enyhe íve van, mint például Monacóban.
+
+A bokszutca, ahova a versenyzők kiállnak a futam alatt gumicserére, rövid karbantartásra vagy régebben üzemanyagtöltésre (ezt jelenleg biztonsági okokból nem engedélyezik), általában a célegyenes mentén helyezkedik el. A pálya többi része széles körben változik; a legtöbb versenypályán az óramutató járásával megegyezően haladnak a versenyzők (az ezeken lévő kanyarok nagy része jobbkanyar).
+
+Versenyhétvége(h2)
+
+A Forma 1_es versenyhétvége öt eseménybl áll ssze: pénteken két másfél órás, szombaton egy egyórás szabadedzést tartanak, amelyen a csapatok az autó beállításait, új fejlesztéseit próbálják ki.
+Szombat délután tartják a rajtsorrendet meghatározó kvalifikációt, míg magát a nagydíjat vasárnapontként rendezik.
+
+(pontozás táblázat)
+
+
+(2 OLDAL)
+
+Formula 1-es autók(h1)  
+
+A Formula–1-es autókkal a Formula–1-ben versenyeznek. Ezeket az autókat a FIA szabályai szerint építik, s készítik fel a versenyekre. Minden évben fejlesztik őket, hogy minél jobbak, minél biztonságosabbak legyenek. A Formula 1-es autók hosszúak és könnyűek. A verseny előtt van 4-5 kör bemelegítő kör, hogy felmelegedjenek a gumik gyári hőfokra. Miután felmelegedtek, a gumik jobban fognak tapadni.
+
+A modern Formula–1-es autók hátsókerék-meghajtásúak, nyitott pilótafülkével rendelkeznek, együlésesek, kerekeik nincsenek lefedve, a motort a versenyző mögött helyezik el. A karosszériák nagyrészt szénszálas anyagokból épülnek, melyek könnyűek és erősek. Minden konstrukción kötelező töréstesztet végezni, mielőtt engedélyt kapna a versenyzésre. Egy autó tömegének a motorral, különböző folyadékokkal és a versenyzővel együtt minimum 605 kilogrammnak kell lennie.
+
+Az autók akár 370 km/h körüli sebességgel is haladhatnak, elsősorban a gyors pályákon, például Monzában. A Formula–1-es autóval valaha elért legnagyobb sebesség rekordját a Honda tartja, 417 km/h-val, amit a Mojave-sivatagban, 2005-ben értek el, minimális leszorító erő mellett. A pályán elért hivatalos sebességrekord pedig szintén 2005-ös. Az Olasz nagydíjon Kimi Räikkönen a McLaren-Mercedessel 370,1 km/h-s végsebességet ért el a versenyen. A nagy sebességű kanyarokban a versenyzőkre 5 g gyorsítás is hathat, szemben például egy utcai sportautóéval, melynél ez az érték legfeljebb 1 g körül mozoghat. 5 g gyorsulásnál a versenyző testét súlyának ötszöröse húzza az adott irányba.
+
+0 → 100 km/h: 2,4 másodperc
+0 → 200 km/h: 4,4 másodperc
+0 → 300 km/h: 8,4 másodperc (optimális beállítással)
+
+Kormánykerék (h2)
+
+A mai autókban szervorendszer segíti a kormányzást, a multifunkciós kormányon több minden állítható, például a fékerőeloszlás vagy a benzin–levegő keverék aránya. Ezen keresztül tudnak a versenyzők kommunikálni a csapat többi tagjával, és a kormányon lévő kijelzőről különböző információkat tudhatnak meg.
+
+Aerodinamika(h2)
+
+
+(3 OLDAL)
+
+Csapatok és pilóták - 2025
+
+(táblázat a jelenlegi csapatokról és pilótákról)

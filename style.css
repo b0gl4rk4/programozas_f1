@@ -1,0 +1,24 @@
+body{
+    background-image: url(images/letöltés.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+  
+.doboz{
+    background-color: rgba(122, 119, 119, 0.678);
+    max-width: 90%;
+    margin:auto;
+    margin-top: 10px;
+    margin-bottom: 110px;
+    padding: 35px;
+}
+.navbar{
+    text-size-adjust: 20px;
+}
+.table{
+    border: 1px  #1d1d1d;
+    padding: 10px;
+    text-align: center;
+    color: rgba(122, 119, 119, 0.678);
+}
