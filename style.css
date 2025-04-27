@@ -1,7 +1,11 @@
 body{
+    font-size: 1.15rem !important;
+    font-family: garamond;
     background-image: url(images/letöltés.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
 }
 
   
@@ -16,14 +20,45 @@ body{
 .navbar{
     text-size-adjust: 20px;
 }
-.table{
-    border: 1px  #1d1d1d;
-    padding: 10px;
-    text-align: center;
-    color: rgba(122, 119, 119, 0.678);
+.tablazat{
+    background-color: black;
 }
-.auto-kep{
+.kartya{
+    margin-top: 20px;
+    background-color: #4d4d4d98 !important;
+    color: white;
+    border: none;
+}
+.tablazat{
+    width: 200px;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: rgba(122, 119, 119, 0.342);
+    color: #333;
+    font-family: sans-serif;
+    margin: 20px;
+  }
+  .tablazat td{
+    border: 1px solid black;
+  }
+  .tablazat th{
+    background-color: rgba(88, 88, 88, 0.493);
+    border: 2px solid black;
+    padding: 8px;
+    margin-left: 15px !important;
+  }
+  .auto-kep{
     height: auto;
     text-align: center;
     width: 500px;
   }
+  .szoveg{
+    margin-right: 200px !important;
+  }
+  .row{
+    margin: 20px;
+  }
+  .autok{
+    margin-top: 100px;
+  }
+  
